@@ -1,6 +1,6 @@
 <div align="center">
   
-## Welcome to MJpage <img src="https://github.com/user-attachments/assets/ddb439dd-78b3-4fcd-b707-0e221358af08" width="50px" height="auto"/>
+## Welcome to MJpage <img src="https://github.com/user-attachments/assets/ddb439dd-78b3-4fcd-b707-0e221358af08" width="50px" height="auto" style="vertical-align: middle;"/>
 
 Junior Product Designer — designer @ ONLYou and SOPT
 
