@@ -2,10 +2,8 @@
   
 ## Welcome to MJpage
 
-Junior Product Designer — designer @ ONLYou and SOPT
+<img src="![262526e4a0e966ae3ee817d39eadc237](https://github.com/user-attachments/assets/ddb439dd-78b3-4fcd-b707-0e221358af08)" alt="Pixel art character" width="50px" height="auto"/> Junior Product Designer — designer @ ONLYou and SOPT
 
-![053c20dbf982b7bae5fb35befc0f0ff6](https://github.com/user-attachments/assets/4bf06b28-bfec-420d-9b02-061b7e2d90aa)
-
-
+![87845f517a80d80475dff4e047b96980](https://github.com/user-attachments/assets/67b01cd7-d079-449e-ba2e-9830bc27771c)
 
 </div>
