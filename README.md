@@ -5,6 +5,6 @@
 
 Junior Product Designer — designer @ ONLYou and SOPT
 
-![87845f517a80d80475dff4e047b96980](https://github.com/user-attachments/assets/67b01cd7-d079-449e-ba2e-9830bc27771c)
+<img src="https://github.com/user-attachments/assets/67b01cd7-d079-449e-ba2e-9830bc27771c" width="100%" height="auto"/>
 
 </div>
