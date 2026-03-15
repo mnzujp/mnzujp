@@ -5,8 +5,6 @@
 
 Junior Product Designer — designer @ ONLYou and SOPT
 
-<img src="https://github.com/user-attachments/assets/67b01cd7-d079-449e-ba2e-9830bc27771c" width="100%" height="auto"/>
-
 </div>
 
 <a href="https://github.com/git-goods/gitanimals">
